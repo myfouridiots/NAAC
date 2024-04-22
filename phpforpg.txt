@@ -1,0 +1,34 @@
+3.2.1, 3.2.2 & 3.2.4
+php form page "Sl.no. , 	Name of the Principal Investigator/ Co Investigator (if applicable)	,Name of the Funding agency 	,Type (Government/Non-Government),	Department of Principal Investigator/ Co Investigator,	Year of Award	,Funds provided (INR in lakhs) 	,Duration of the project
+"
+
+3.3.2
+php form page "Year,	Name of the workshop/ seminar,	Number of Participants	,Date From – To	,Link to the Activity report on the website
+
+"
+
+3.4.4
+php form page "Title of paper,	Name of the author/s	,Department of the teacher,	Name of journal,	Year of publication,	ISSN number,Link to website of the Journal,	Link to article/paper/abstract of the article	,Is it listed in UGC Care list/Scopus/Web of Science/other mention
+
+
+"
+3.5.1 & 
+php form page "Name of the teacher-consultants	,Name of consultancy project/corporate training program,	Consulting/Sponsoring agency with contact details,	Year	,Revenue generated (INR in Lakhs)	,Number of trainees
+
+
+"
+3.5.2
+php form page "Names of the teachers/staff,	Name of the facilities developed and department	,Agency seeking training with contact details	,Year	,Name of consultancy	,Total amount spent (INR in Lakhs)
+
+"
+
+3.6.3 & 3.6.4
+php frompage "Name of the activity,	Organising unit/ agency/ collaborating agency ,	Name of the scheme	,Year of the activity 	,Number of students participated in such activities
+"
+
+3,7,1
+php form page "Sl. No.,	Title of the collaborative activity	,Name of the collaborating agency with contact details,	Name of the participant ,	Year of collaboration	,Duration	,Nature of the activity	,Link to the relavant document
+"
+3.7.2
+phpform page "Organisation with which MoU is signed,	Name of the institution/ industry/ corporate house,	Year of signing MoU,	Duration	,List the  actual  activities under each MOU year-wise"
+

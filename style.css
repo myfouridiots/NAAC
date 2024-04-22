@@ -1,0 +1,30 @@
+.naac-img{
+    background: url(naac.jpeg);
+    height: 380px;
+    /* width: 700px; */
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    margin-top: 50px;
+    border: 1px solid darkred ;
+    border-radius: 10px;
+}
+
+
+#criteria1Sub,
+#criteria2Sub,
+#criteria3Sub,
+#criteria4Sub,
+#criteria5Sub,
+#criteria6Sub,
+#criteria7Sub {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .naac-img {
+      /* margin: 0px; */
+      background-size: cover;
+      height: 260px; /* Adjust the height for even smaller screens */
+    }
+  }
