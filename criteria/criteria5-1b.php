@@ -42,7 +42,9 @@ require 'dbcon.php';
                             <div class="card">
                                 <div class="card-header">
                                     <h4 class="text-center">&emsp;<b> Criteria 1-2 Students Records</b>
-                                        <a href="../students/student-create.php" class="btn btn-success btn-sm pull-right"><i class="fa-solid fa-download fa-xl"></i></a>
+                                    <form method="post" action="../excel/Excel copy 28.php">
+                                            <button type="submit" class="btn btn-success btn pull-right" name="export_excel"><i class="fas fa-download"></i></button>
+                                        </form>
                                         <!-- <a href="../criteria/criteria.php" class="btn btn-primary btn-sm pull-right"><i class="fa-regular fa-circle-left fa-xl"></i></a> -->
                                     </h4>
                                 </div>
